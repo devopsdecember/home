@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hi this is my file
 
 
 thiskskasgjsdjkjgsj
+=======
+hi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my filehi this is my file
+>>>>>>> 7a6b8f0af0dd79d72b4cdd711d5be76254da0aa2
