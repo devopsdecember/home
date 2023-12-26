@@ -8,13 +8,6 @@ terraform plan brief
 terraform precondition and postcondition
 CIDR
 nating in networking
-api gateway azurenating in networking
-api gateway azurenating in networking
-api gateway azurenating in networking
-api gateway azurenating in networking
-api gateway azurenating in networking
-api gateway azurenating in networking
-api gateway azurenating in networking
 api gateway azure
 load balancer in azure
 network security group azure
