@@ -1,0 +1,62 @@
+landing zone azure
+hub and spoke model azure
+terraform state file
+terraform state file location
+one statefile to another terraform state file
+remote state in terraform
+terraform plan brief
+terraform precondition and postcondition
+CIDR
+nating in networking
+api gateway azurenating in networking
+api gateway azurenating in networking
+api gateway azurenating in networking
+api gateway azurenating in networking
+api gateway azurenating in networking
+api gateway azurenating in networking
+api gateway azurenating in networking
+api gateway azure
+load balancer in azure
+network security group azure
+private endpoints in azure
+azure load balancer using terraform
+alert management 
+azure api management
+write the middle character for string using python
+ingress in kubernetes
+nodeport service in kubernetes
+write query even number of rows in mysql
+kubernetes components
+devops project architecture
+terraform remove ec2 instance
+azure load balancer using terraform
+arm full form in azure
+rolling update in kubernetes
+api has to write multiple time using ansible playbook
+read and write 10 time using ansible playbook
+ansible playbook for read write 10 times
+kubernetes operator
+run mysql in kubernetes
+add and create user in jenkins
+active reactive parameter in jenkins
+default user authentication method in jenkins
+ansible rescue
+hiting  api 10 times ansible playbook
+how to call api using ansible playbook 
+liveness probe vs readiness probe
+https and tcp difference
+executing api in using ansible playbook
+ansible playbook to check service status
+azure devops cicd pipeline
+aks cicd in pipeline in coachdevops
+rective commit count in azure pipeline
+restrict push to master github
+kubernetes architecture
+pod not working
+azure networking
+azure devops roles and responsibilities
+aks cicd in pipeline in coachdevops
+state file in terraform
+kubernetes node version
+linux commands
+
